@@ -1,0 +1,20 @@
+{
+  "name": "shockstock",
+  "version": "1.0.0",
+  "description": "node demo",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nico Koelewijn",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.12.4",
+    "compression": "^1.4.4",
+    "dotenv": "^1.1.0",
+    "express": "^4.12.3",
+    "express-handlebars": "^2.0.1",
+    "method-override": "^2.3.2",
+    "mysql": "^2.6.2"
+  }
+}
